@@ -57,8 +57,13 @@
             "keyColor": "yellow"
         },
         {
+            "type": "de",
+            "key": " DE",
+            "keyColor": "blue"
+        },
+        {
             "type": "wm",
-            "key": " DE/WM",
+            "key": "│ ├",
             "keyColor": "blue"
         },
         {
