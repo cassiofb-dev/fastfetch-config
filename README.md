@@ -19,9 +19,8 @@ This repo is just for me tracking the config on another devices.
 
 ## Usage
 
-1. ``git clone https://github.com/cassiofb-dev/fastfetch-config``
-2. Rename the folder from ``fastfetch-config`` to ``fastfetch``
-3. Paste the folder to ``~/.local/share``
+1. ``git clone https://github.com/cassiofb-dev/fastfetch-config fastfetch``
+2. Paste the folder to ``~/.local/share`` or ``~/.config``
 
 ### Windows
 
